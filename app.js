@@ -14,7 +14,7 @@ app.post("/", function(req,res){
     
     //Using OpenWeather API to get the live data
     const query = req.body.cityName
-    const apiKey = "b161cc74f2b4d9e059cfa173ef824084"
+    const apiKey = " " //Type in your appId
     const url = "https://api.openweathermap.org/data/2.5/weather?q="+ query +"&appid="+ apiKey+"&units=metric";
     //Making a http get request to get data as JSON format
     https.get(url, function(response){
