@@ -4,6 +4,7 @@
 <br>
 <br>
 Localhost server : <br>
+<img src="Weather-App/ss/ss1.png">
 ![image](https://user-images.githubusercontent.com/88667216/218321337-b473969a-21f8-44d5-a5f6-5311450b489d.png) <br>
 <br>
 https status code 200 describes 'Successful responses --> OK' <br>
